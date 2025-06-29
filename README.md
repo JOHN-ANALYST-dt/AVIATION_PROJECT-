@@ -36,6 +36,8 @@ Main aim of the project is to identify the potential risks of aircraft and  dete
 <center><h2>3.0-Data Understanding</h2></center>
 <p><b>3.1-Data source:</b>The dataset was obtained from the <a href="https://www.kaggle.com/">Kaggle Website</a>  and includes records of flights between 1998 and 2023.</p>
 <h3><b>3.2-Data Structure</b>:</h3>
+<p>Understanding the Data Stucture , we need to check at the data types the kind of column names and rows we have, from our Image</p>
+<img src="Images/snipp2.PNG">
 
 
 
