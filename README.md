@@ -45,12 +45,12 @@ Main aim of the project is to identify the potential risks of aircraft and  dete
 <p>After cleaning and filling out the missing data in our Data set , lets try to do some visualization to track out and display some important information</p>
 <img src="Images/descre_stat.PNG">
 <p><b>3.5-Vizualizations</b></p>
-<p>ploting of the engines over injuries</p>
-<img src="">
+<p>ploting of the correlationship between the aircraft No.engines over injuries</p>
+<img src="Images/bar4.PNG">
 <p>Plotting of the timeline trends</p>
-<img src="">
+<img src="Images/anal1.PNG">
 <p>Plotting the Dashboarding</p>
-<img src="">
+<img src="Images/dash.PNG">
 
 
 
