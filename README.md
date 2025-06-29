@@ -14,14 +14,23 @@ Aircraft with more than one engine were highly used
 Main aim of the project is to identify the potential risks of aircraft and  determining which aircraft are the lowest risk for the company to start this new business endeavor
 <h3><b>2.1-Business Objective</b></h3>
 <ol>
-  <li>Which customer segments are most profitable?</li>
-  <li>Which routes are most affected by delays?</li>
+  <li>Identifying Which customer segments are most profitable with relation to the aircraft make</li>
+  <li>looking up to which routes are most affected by delays?</li>
   <li>Understanding which aircraft Make is used most in the flights</li>
   <li>Analyzing which aircraft make and engine type had the highest and lowest incidence of accidents</li>
   <li>Which geographical route has the highest number of flight accidents</li>
   <li>Finding the relationships between the number of aircraft engines and the number of accidents</li>
   <li>Identifying the Financial Risks in Fuel consumption with the number of passengers and the no. engines</li>
   <li>With relation to the time lines trend, in the advancement of technology , what is the accidents trends with relation to the new make and models of aircraft in the market</li>
+</ol>
+<h3><b>2.2-Stake Holders</b></h3>
+<ol>
+  <li>Project sponsor: Champions the project and ensure it alligns with company goals</li>
+  <li>Project Sponsor: Responsible for planning, executing and delivering the project </li>
+  <li>Airline Customers: Impacted by project outcomes, such us the new aircraft deliveries </li>
+  <li>Flight Operation Teams: they are impacted with the project outcomes and the make of the aircraft </li>
+  <li>Safety and Risk Management Teams: Responsible for identifying and mitigating risks to ensure safe operations</li>
+  <li>Finance and accounting Team: Responsible for managing project budget and financial reporting </li>
 </ol>
 
 
