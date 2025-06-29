@@ -11,5 +11,8 @@ Plotting of the bar graphs to the relationships and geographical mappings
 Aircrafts with the lowest number of engines were highly affected by weather and the number of fatal accidents were very high
 Aircraft with more than one engine were highly used
 <center><h2>2.0 <b>Business Understanding</b> </h2></center>
+Main aim of the project is to identify the potential risks of aircraft and  determining which aircraft are the lowest risk for the company to start this new business endeavor
+<h3><b>2.1-Business Objective</b></h3>
+
 
 
