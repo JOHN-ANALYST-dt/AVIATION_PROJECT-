@@ -10,6 +10,6 @@ Plotting of the bar graphs to the relationships and geographical mappings
 <center><h3>1.3:Key Outcomes</h3></center>
 Aircrafts with the lowest number of engines were highly affected by weather and the number of fatal accidents were very high
 Aircraft with more than one engine were highly used
-<center><h3>2.0<b>Business Understanding</b></h3></center>
+<center><h2>2.0 <b>Business Understanding</b> </h2></center>
 
 
