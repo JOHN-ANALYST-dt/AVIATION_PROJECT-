@@ -43,7 +43,7 @@ Main aim of the project is to identify the potential risks of aircraft and  dete
 <p>From our Data , we have some missing values which we need to do some cleaning first before we do visualization, we need to fill each string with the mode and each float with the median. this will help us to calculate the mean and the standard variation in determing the data distributions </p>
 <h3><b>3.4-Descriptive Statistics</b></h3>
 <p>After cleaning and filling out the missing data in our Data set , lets try to do some visualization to track out and display some important information</p>
-<img src="Images/descre_stat.PNG"
+<img src="Images/descre_stat.PNG">
 
 
 
