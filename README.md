@@ -33,7 +33,10 @@ Main aim of the project is to identify the potential risks of aircraft and  dete
   <li><b>Finance and accounting Team:</b> Responsible for managing project budget and financial reporting </li>
 </ol>
 
-<center><h2>Data Understanding</h2></center>
-<p><<b>Data source:</b>The dataset was obtained from the <a href="https://www.kaggle.com/">Kaggle Website</a>  and includes records of flights between 1998 and 2023.</p>
+<center><h2>3.0-Data Understanding</h2></center>
+<p><b>3.1-Data source:</b>The dataset was obtained from the <a href="https://www.kaggle.com/">Kaggle Website</a>  and includes records of flights between 1998 and 2023.</p>
+<h3><b>3.2-Data Structure</b>:</h3>
+
+
 
 
