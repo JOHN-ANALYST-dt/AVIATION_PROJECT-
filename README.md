@@ -52,6 +52,8 @@ Main aim of the project is to identify the potential risks of aircraft and  dete
 <p>Plotting the Dashboarding</p>
 <img src="Images/dash.PNG">
 
+<h2><b>4.0-Conclution</b></h2>
+<P>In this phase of the project, we have successfully established a strong foundation by clearly defining the business objectives, identifying the key stakeholders, and outlining the main business questions. These include understanding THE BEST aircraft Make to be bought depending with the number of engines and the operational frequencies, identifying high-risk routes or aircraft types, and developing potential strategies for reducing the accidental Risks </P>
 
 
 
