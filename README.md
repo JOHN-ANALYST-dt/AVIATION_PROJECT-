@@ -13,6 +13,15 @@ Aircraft with more than one engine were highly used
 <center><h2>2.0 <b>Business Understanding</b> </h2></center>
 Main aim of the project is to identify the potential risks of aircraft and  determining which aircraft are the lowest risk for the company to start this new business endeavor
 <h3><b>2.1-Business Objective</b></h3>
+<ol>
+  <li>Understanding which aircraft Make is used most in the flights</li>
+  <li>Analyzing which aircraft make and engine type had the highest and lowest incidence of accidents</li>
+  <li>Which geographical route has the highest number of flight accidents</li>
+  <li>Finding the relationships between the number of aircraft engines and the number of accidents</li>
+  <li>Identifying the Financial Risks in Fuel consumption with the number of passengers and the no. engines</li>
+  <li>With relation to the time lines trend, in the advancement of technology , what is the accidents trends with relation to the new make and models of aircraft in the market</li>
+</ol>
+
 
 
 
