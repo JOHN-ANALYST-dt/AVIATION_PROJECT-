@@ -44,6 +44,13 @@ Main aim of the project is to identify the potential risks of aircraft and  dete
 <h3><b>3.4-Descriptive Statistics</b></h3>
 <p>After cleaning and filling out the missing data in our Data set , lets try to do some visualization to track out and display some important information</p>
 <img src="Images/descre_stat.PNG">
+<p><b>3.5-Vizualizations</b></p>
+<p>ploting of the engines over injuries</p>
+<img src="">
+<p>Plotting of the timeline trends</p>
+<img src="">
+<p>Plotting the Dashboarding</p>
+<img src="">
 
 
 
