@@ -25,12 +25,12 @@ Main aim of the project is to identify the potential risks of aircraft and  dete
 </ol>
 <h3><b>2.2-Stake Holders</b></h3>
 <ol>
-  <li>Project sponsor: Champions the project and ensure it alligns with company goals</li>
-  <li>Project Sponsor: Responsible for planning, executing and delivering the project </li>
-  <li>Airline Customers: Impacted by project outcomes, such us the new aircraft deliveries </li>
-  <li>Flight Operation Teams: they are impacted with the project outcomes and the make of the aircraft </li>
-  <li>Safety and Risk Management Teams: Responsible for identifying and mitigating risks to ensure safe operations</li>
-  <li>Finance and accounting Team: Responsible for managing project budget and financial reporting </li>
+  <li><b>Project sponsor:</b> Champions the project and ensure it alligns with company goals</li>
+  <li><b>Project Sponsor:</b> Responsible for planning, executing and delivering the project </li>
+  <li><b>Airline Customers:</b> Impacted by project outcomes, such us the new aircraft deliveries </li>
+  <li><b>Flight Operation Teams:</b> they are impacted with the project outcomes and the make of the aircraft </li>
+  <li><b>Safety and Risk Management Teams:</b> Responsible for identifying and mitigating risks to ensure safe operations</li>
+  <li><b>Finance and accounting Team:</b> Responsible for managing project budget and financial reporting </li>
 </ol>
 
 
