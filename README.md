@@ -38,6 +38,8 @@ Main aim of the project is to identify the potential risks of aircraft and  dete
 <h3><b>3.2-Data Structure</b>:</h3>
 <p>Understanding the Data Stucture , we need to check at the data types the kind of column names and rows we have, from our Image</p>
 <img src="Images/snipp2.PNG">
+<p>From our data Information, we are able to see the kind of data set and types  we have,  on the column names we have the names and on the Dtype we have the data types Objects are much more than the floats </p>
+
 
 
 
